@@ -1,21 +1,15 @@
-Fake News Detector 📰🤖
+# 🧠 Fake News Detection using Hybrid CNN + TF-IDF
 
-A hybrid AI model that detects fake news using both text and image data.
+A multimodal AI/ML project to detect real vs. fake news using both image and text inputs.
 
-🔍 Features
-- Text Classification using TF-IDF + PassiveAggressiveClassifier
-- Image Analysis using CNN + Vision Transformer (ViT)
-- Flask Web App for predictions
-- Achieved 91% accuracy on benchmark datasets
+## 🔧 Features
+- Text classification using TF-IDF + PassiveAggressiveClassifier
+- Image classification using CNN + Vision Transformer (ViT)
+- Flask web interface for prediction
+- Achieved 91% accuracy
+- Presented at ICNSoC-2025, submitted to ICOCT-2025
 
-🛠️ Tech Stack
-Python, TensorFlow, Scikit-learn, OpenCV, Flask
+## 💻 Tech Stack
+Python, Flask, TensorFlow, OpenCV, Scikit-learn, HTML/CSS
 
-📄 Files Included
-- app.py – Flask backend
-- model.py – Model creation and training
-- Project_Report/FakeNewsDetection_Report.pdf
-- Paper/ICNSoC2025_Paper.pdf
-
-
-
+## 📁 Folder Structure
