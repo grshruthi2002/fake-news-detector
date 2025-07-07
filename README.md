@@ -13,3 +13,7 @@ A multimodal AI/ML project to detect real vs. fake news using both image and tex
 Python, Flask, TensorFlow, OpenCV, Scikit-learn, HTML/CSS
 
 ## 📁 Folder Structure
+## 📄 Documents
+
+- [📘 Project Report (PDF)](FakeNewsDetection_Report.pdf)
+- [📊 Presentation Slides (PDF)](FakeNewsDetection_Presentation.pdf)
