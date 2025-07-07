@@ -28,5 +28,5 @@ fake-news-detector/
 
 ## 📄 Documents
 
-- [📘 Project Report (PDF)](./FakeNewsDetection_Report.pdf)
+- [📘 Project Report (PDF)](https://github.com/grshruthi2002/fake-news-detector/blob/main/fake_news_detection_ppt.pdf)
 - [📊 Presentation Slides (PDF)](./FakeNewsDetection_Presentation.pdf)
