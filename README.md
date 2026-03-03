@@ -34,4 +34,4 @@ The model was rigorously evaluated and demonstrated high reliability across both
 ## Web Application Previews
 The system provides a real-time Flask web interface, allowing users to upload articles or images and instantly receive a classification of "Real" or "Fake" News.
 
-![Fake News Detector Interface]([(https://github.com/grshruthi2002/Hybrid-CNN-Fake-News-Detector/blob/main/ouput_screenshot_%20Multimodal%20Fake%20News%20Detection%20System.png)]?raw=true)
+![Fake News Detector Interface](https://github.com/grshruthi2002/Hybrid-CNN-Fake-News-Detector/blob/main/ouput_screenshot_%20Multimodal%20Fake%20News%20Detection%20System.png?raw=true)
