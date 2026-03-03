@@ -31,7 +31,7 @@ The model was rigorously evaluated and demonstrated high reliability across both
 - [cite_start]**Conference:** International Conference on Computing Technologies (ICOCT 2025) [cite: 235]
 - [cite_start]**Status:** Paper Communicated [cite: 234]
 
+## Web Application Previews
+The system provides a real-time Flask web interface, allowing users to upload articles or images and instantly receive a classification of "Real" or "Fake" News.
 
-
-**Image Detection Interface**
-![Image Prediction]([Insert link to your image prediction screenshot])
+![Fake News Detector Interface]([Insert the link to this uploaded image here]?raw=true)
