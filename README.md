@@ -1,7 +1,7 @@
 # Truth Seeker: Multimodal Fake News Detection System
 
 ## Project Objective
-[cite_start]The rapid spread of misinformation through both text and manipulated images poses a significant threat to public trust and decision-making[cite: 11, 19, 20]. [cite_start]The objective of this project is to build a dual-modal "Truth Seeker" system capable of detecting fake news in real-time[cite: 1, 2, 15]. [cite_start]The system evaluates both textual claims and visual content independently to verify the authenticity of news articles[cite: 12, 13, 14].
+The rapid spread of misinformation through both text and manipulated images poses a significant threat to public trust and decision-making[cite: 11, 19, 20].The objective of this project is to build a dual-modal "Truth Seeker" system capable of detecting fake news in real-time[cite: 1, 2, 15]. [cite_start]The system evaluates both textual claims and visual content independently to verify the authenticity of news articles[cite: 12, 13, 14].
 
 ## Frameworks & Libraries
 - [cite_start]**Programming & Backend:** Python, Flask [cite: 15]
